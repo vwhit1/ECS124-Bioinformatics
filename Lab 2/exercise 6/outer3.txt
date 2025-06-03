@@ -1,0 +1,594 @@
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gcgcatggcagatgccttttgcgaacgtaagaattttgaaaatcaggcga
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cctatccaagaccatttattgggagaacgcgcgctttgatacccgttcgg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tgacgaagtgatgttgatactggaaattgaccatctacgtggcactcgga
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tcttacagacgctcccattgcatcgaagagctgtccctgagcttacgccc
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtattgcggcccagctcgggttatcgactagcttcaaattaagttcgtaa
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+acccctgccgacctttgcgcacggatccacaatgagggcgtgtgcaatca
+
+
+ The similarity value of the two strings is 34
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tcgcgtttcgatttcgaatccccagttacttaagccccgtttacgaggga
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ctgattcgcaactgcggtctttcagtaagtaccatggaggccagttggaa
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+caatacatagccagcaggttgcttaacgatcctatgatacgttctccagg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ccgcacatgttatatttggtatccaggcgatagacctcgaaggaccgttt
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+aattttctcggaaggtacgcataacgttggcgtttgcgcttggccatacg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tctaaatccatccagctgtctcattagcgcggggttacaaacttgtccgc
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ttcgcgtgacgaaactagttcattagggaaatagacgtctgtggttattg
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+acctcgtccagcggttgtaattaccctcgtaatctaaaccctcaacgaga
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gggcgacggcgtcttgatgccaattatatcataatgggcacgcaccctct
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+caacctcaggggaagttgctcggtttgctgtgtgtaatttggggtcattt
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+atatgagtagttggtcacatggatctcactcgggcacgagttgtttggac
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+atacatgtttatttgagtggtagacgcgacagcggtttataaaaaacatc
+
+
+ The similarity value of the two strings is 27
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tccctgggagtaatattacaaggcaagccggctgcagctagaggacctgt
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gctagcgcgcaaggaatatgtcgcacgaggttggagtcagttggtccttg
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ccgtgccttgtgaccacacttctgtgaagcacagaaccccgatcaagtat
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+aacgatacggaattccaactcttaagaccacgcctccataacccacgttc
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cgattttaaatacgcagtggtctcgtccgtatgccaaaattctgacaggg
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtcctcgtacccatccttcgctacatcggaaccaatgtatggctgccctt
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gaccgcgccgttaagggggtgtgtactcaacggagcgacgtctatttaaa
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ttccgatctgttctctgccattcctgtttctaagcactacgcacaccgag
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cggtaccacttttttcgccagactttgtttggtacgttcggcagtcgtac
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tacggtgtgaaggtcgacgaataattattgtgttagttactgtagaacga
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+taaaagtcactcaatatcagaaagctgcgcgtttgtacatgagtgcgctt
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+caaggcagcacttcaacaatgcggagcgggattttaaaccggtcctttcg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+caagcttgtggacggaccgtttgtggttccccctttaccgtatccggata
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gctggtttagtgaacctaagtcagggcaggtgcccattcgaggcctactc
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+aaaatgtcaaaagagtcggtcgccaatacaccaggccaatagatccggag
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ggattggactgtagtaaattctaatccggcctactcatttggaggacttg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ttgaatcgccacgtctagaaccagagattgagttgcgatgtccattctcc
+
+
+ The similarity value of the two strings is 33
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gataataggccgtacagaggctcctatacttagatgcgtgcttttaagcc
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ggtgaactcacactgtcgactattttccaccattgaagacaaaccgttat
+
+
+ The similarity value of the two strings is 33
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+agcatcgccgtcagtctatgacaggacccctaactccaagagaatgacac
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+taaaaccccatacaatcgtaccccaatggatctcaaatcgttgtccgata
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cgcagatgcggctggctgtggagcgactatgcatcgaccaaattatcaga
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gggtattcacctaccttggaccgtggcgtttttatcttacaaatatcctc
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+actgttattaacttactaccttagaatcataacactaagtattactaaga
+
+
+ The similarity value of the two strings is 26
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ctcttccaagaggcagccagctgcactccaggcgtcgtacgatccttcta
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ccctcaacacgtacagcgacatgtggatgactctctcagctacttgcggg
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+agccccgcaacgcatgggcacataggccccgttacagagtaagggcttgt
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cgggataaatcaggcctcctcatgattgggaaggctgtaaacttctcaac
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+atcgaggattataatgaggattattagaatcgcatagctggttgggagat
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+taataatataaccttacattgggattccgctgtgcaacagaaaattctgt
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gccagagataagtattcgtacacgtgctgaatatcctgtgcttgtttgac
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+agtcatatgtgagactatcggactgggagttcggtctccctattacgcca
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+atgttccaattgaaaatcttaaagccatattcgcgcgatccacaccgtgc
+
+
+ The similarity value of the two strings is 26
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+atctaccgccagtctgatacagctactccctgtgacgaatcctagtgaac
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtctcaacataagcactctgtcgtgcaggacagagcgagagatgcaggtt
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+aagggactgcccgcccgcataacaacagttgggaaatggtacacaattgt
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+agacgtcagattcttggttatttactgggtatgatagtcactagtggctt
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtcaaagttcagactataacctacagtaagagttgtaacctccccgattt
+
+
+ The similarity value of the two strings is 26
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ttagctcgggtcgaccagcggtccggtccgaatcagaaattttcttttca
+
+
+ The similarity value of the two strings is 34
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtacgtgatacgcaagcagcaagacactcaaagatctaccagtcctcgcg
+
+
+ The similarity value of the two strings is 27
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tgacgctgtggcttgacggtcctaccgctcaatatacgtcgaaggttgat
+
+
+ The similarity value of the two strings is 36
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+acgcttgccggggtgcgggttcatacaactggcccgaggttatgcacgag
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cagccagcgaacgcctggctcagtgagccacccggataggaggaccgagc
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cagacagcagggaaacgccgcacaagctcaccggacctttaacaagcaca
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ctgataggccggggtccggcgttaggcgacgcattactgtattgcgccct
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+caccggaatcttcggtttcccgcgactctcggggcatccagctactctgt
+
+
+ The similarity value of the two strings is 33
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+atcggtatcaggacacgaacgtcggatgataacgcggctaatagaagccc
+
+
+ The similarity value of the two strings is 27
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tccatctaagacagttccgaactgcgggatcctagtagagcctcggacta
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tggtacacgggcttcgttagagaacgctgttagttgagtactgcccctct
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ctcgacactttatgcaaatttggcacttccagtcgcaactgccctatcca
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cggtgttacacaatttgcaaccccatctgactttcgcaacggataaggca
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cggtgaccacggtaccgcccagacgaactaatgtcggacatgtgcagcca
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+accgccataattggcttctctccaaacagagcgaaatccttcctggcaga
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cagctgcatggagcgatatggccagtgcacagggagccatggctttccta
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtattggaacgaagccttgcagtcgatcgacagtgcttccatccaacgta
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ggggttgtggggtggaagctgatcaaaattatcccgctcgttgcaggggc
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tgctaacacctcgtatcagcacgcccagaagtctgttaataacatgctga
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ctcaataactcaatgtcaacacctggtgagaggtggaagccgtctctgta
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ctttatgttgtcagtgatgatcagatccgctgtacgtacaccgacgatgg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gttgacagtcccccggccagctgcaaattgaagaggaaagagataacaga
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+taagattagtattggagctccgatgtccttggtgataatacactatagca
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ggtacggctccgtcggaatccgaaccccgaatatagcacaaccgccggat
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cgttggtgttcgatggttcaaaagctgcaggcccagatttcgcgccgcgt
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+cggttagatcatttataccgctgaaaacacgcgcacgccaaaccgctcgt
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+attacggccggcctgatcgcgggtcgtgatgctaataccaatgttagtga
+
+
+ The similarity value of the two strings is 34
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tcgtatatcctcgggggaaagtgtgctacggcgttagttgatagagctgt
+
+
+ The similarity value of the two strings is 29
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gcagatattgatcggtggaacatctttctgggatccaaactctgcaaatc
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ttctacattacgttacacaaaaacaatgttagccgttattaagttccatc
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tgggtaaatcgccctatactatgttcgacagcagggaatcccaaaagggg
+
+
+ The similarity value of the two strings is 31
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+aagaagaggagagggaagcatgttgtacaccgttagtgcagtgaccaaat
+
+
+ The similarity value of the two strings is 26
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gttcatcgtctcaagatagctatagcgaactcgtcaatatactgggggtg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tgtctgtggagttgcgctaccgggttgacgcgtttttctgccttaagggg
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gccgctatagataaacgcggcaaagctgatcgttagctattcatctccga
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gtgttcaagtgttaaatgcttctccgtattatagcgatagtctacatgag
+
+
+ The similarity value of the two strings is 26
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+gggttgtaagcgataaccgggatcgggtatttccgtgagtaattcgtttt
+
+
+ The similarity value of the two strings is 32
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+tgcgagcgcgtcaaataagggtttgggtcggctactgataaaattaactg
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+ttatggggccagagtggtaggggtcgtaactctgtgtctacgctagagag
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+agggaatgcgtaccttaggaattgaatggtttcgcagcgtagctcggtac
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+aaatatggagggtagtataaccgccacatgattctagtggctattggtcg
+
+
+ The similarity value of the two strings is 28
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+attaagacataccctcacgatctgtacatgtggtttgcacatagcgacgg
+
+
+ The similarity value of the two strings is 30
+tgaccgcccctctgtcgacggtccggacttcgaggcgcaaattcggttat
+
+agcactgtatatgtagcagtagcctatttacgggacggtccgtgaataga
+
+
+ The similarity value of the two strings is 29

@@ -1,0 +1,1 @@
+I noticed that the LCS similarity score is about 1/2 of the length of the string, on average.

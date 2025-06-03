@@ -1,0 +1,264 @@
+ATGCGATAA
+
+ATGGGAATA
+
+A, A
+Match
+V[1][1] has value 3
+A, T
+Mismatch - Let's check against Space
+V[1][2] has value -1
+A, G
+Mismatch - Let's check against Space
+V[1][3] has value -5
+A, G
+Mismatch - Let's check against Space
+V[1][4] has value -9
+A, G
+Mismatch - Let's check against Space
+V[1][5] has value -10
+A, A
+Match
+V[1][6] has value -5
+A, A
+Match
+V[1][7] has value -6
+A, T
+Mismatch - Let's check against Space
+V[1][8] has value -10
+A, A
+Match
+V[1][9] has value -8
+T, A
+Mismatch - Let's check against Space
+Gap opened here.
+V[2][1] has value -1
+T, T
+Match
+V[2][2] has value 6
+T, G
+Mismatch - Let's check against Space
+V[2][3] has value 2
+T, G
+Mismatch - Let's check against Space
+V[2][4] has value -2
+T, G
+Mismatch - Let's check against Space
+V[2][5] has value -6
+T, A
+Mismatch - Let's check against Space
+Gap opened here.
+V[2][6] has value -9
+T, A
+Mismatch - Let's check against Space
+V[2][7] has value -8
+T, T
+Match
+V[2][8] has value -3
+T, A
+Mismatch - Let's check against Space
+V[2][9] has value -7
+G, A
+Mismatch - Let's check against Space
+Gap opened here.
+V[3][1] has value -5
+G, T
+Mismatch - Let's check against Space
+Gap opened here.
+V[3][2] has value 2
+G, G
+Match
+V[3][3] has value 9
+G, G
+Match
+V[3][4] has value 5
+G, G
+Match
+V[3][5] has value 1
+G, A
+Mismatch - Let's check against Space
+V[3][6] has value -3
+G, A
+Mismatch - Let's check against Space
+V[3][7] has value -7
+G, T
+Mismatch - Let's check against Space
+Gap opened here.
+V[3][8] has value -7
+G, A
+Mismatch - Let's check against Space
+V[3][9] has value -6
+C, A
+Mismatch - Let's check against Space
+V[4][1] has value -9
+C, T
+Mismatch - Let's check against Space
+Gap opened here.
+V[4][2] has value -2
+C, G
+Mismatch - Let's check against Space
+Gap opened here.
+V[4][3] has value 5
+C, G
+Mismatch - Let's check against Space
+V[4][4] has value 6
+C, G
+Mismatch - Let's check against Space
+V[4][5] has value 2
+C, A
+Mismatch - Let's check against Space
+V[4][6] has value -2
+C, A
+Mismatch - Let's check against Space
+V[4][7] has value -6
+C, T
+Mismatch - Let's check against Space
+V[4][8] has value -10
+C, A
+Mismatch - Let's check against Space
+V[4][9] has value -10
+G, A
+Mismatch - Let's check against Space
+V[5][1] has value -10
+G, T
+Mismatch - Let's check against Space
+Gap opened here.
+V[5][2] has value -6
+G, G
+Match
+V[5][3] has value 1
+G, G
+Match
+V[5][4] has value 8
+G, G
+Match
+V[5][5] has value 9
+G, A
+Mismatch - Let's check against Space
+V[5][6] has value 5
+G, A
+Mismatch - Let's check against Space
+V[5][7] has value 1
+G, T
+Mismatch - Let's check against Space
+V[5][8] has value -3
+G, A
+Mismatch - Let's check against Space
+V[5][9] has value -7
+A, A
+Match
+V[6][1] has value -5
+A, T
+Mismatch - Let's check against Space
+V[6][2] has value -9
+A, G
+Mismatch - Let's check against Space
+Gap opened here.
+V[6][3] has value -3
+A, G
+Mismatch - Let's check against Space
+Gap opened here.
+V[6][4] has value 4
+A, G
+Mismatch - Let's check against Space
+V[6][5] has value 5
+A, A
+Match
+V[6][6] has value 12
+A, A
+Match
+V[6][7] has value 8
+A, T
+Mismatch - Let's check against Space
+V[6][8] has value 4
+A, A
+Match
+V[6][9] has value 0
+T, A
+Mismatch - Let's check against Space
+Gap opened here.
+V[7][1] has value -9
+T, T
+Match
+V[7][2] has value -2
+T, G
+Mismatch - Let's check against Space
+V[7][3] has value -6
+T, G
+Mismatch - Let's check against Space
+Gap opened here.
+V[7][4] has value 0
+T, G
+Mismatch - Let's check against Space
+V[7][5] has value 1
+T, A
+Mismatch - Let's check against Space
+Gap opened here.
+V[7][6] has value 8
+T, A
+Mismatch - Let's check against Space
+V[7][7] has value 9
+T, T
+Match
+V[7][8] has value 11
+T, A
+Mismatch - Let's check against Space
+V[7][9] has value 7
+A, A
+Match
+V[8][1] has value -7
+A, T
+Mismatch - Let's check against Space
+Gap opened here.
+V[8][2] has value -6
+A, G
+Mismatch - Let's check against Space
+V[8][3] has value -5
+A, G
+Mismatch - Let's check against Space
+Gap opened here.
+V[8][4] has value -4
+A, G
+Mismatch - Let's check against Space
+V[8][5] has value -3
+A, A
+Match
+V[8][6] has value 4
+A, A
+Match
+V[8][7] has value 11
+A, T
+Mismatch - Let's check against Space
+V[8][8] has value 7
+A, A
+Match
+V[8][9] has value 14
+A, A
+Match
+V[9][1] has value -8
+A, T
+Mismatch - Let's check against Space
+V[9][2] has value -10
+A, G
+Mismatch - Let's check against Space
+V[9][3] has value -9
+A, G
+Mismatch - Let's check against Space
+V[9][4] has value -8
+A, G
+Mismatch - Let's check against Space
+V[9][5] has value -7
+A, A
+Match
+V[9][6] has value 0
+A, A
+Match
+V[9][7] has value 7
+A, T
+Mismatch - Let's check against Space
+V[9][8] has value 8
+A, A
+Match
+V[9][9] has value 10
+
+ The similarity value of the two strings is 10

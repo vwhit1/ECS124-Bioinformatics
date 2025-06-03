@@ -1,0 +1,211 @@
+ATGCGATAA
+
+ATGGGAATA
+
+Match
+V[1][1] has value 1
+Mismatch
+Indel
+V[1][2] has value 0
+Mismatch
+Indel
+V[1][3] has value -1
+Mismatch
+Indel
+V[1][4] has value -2
+Mismatch
+Indel
+V[1][5] has value -3
+Match
+V[1][6] has value -4
+Match
+V[1][7] has value -5
+Mismatch
+Indel
+V[1][8] has value -6
+Match
+V[1][9] has value -7
+Mismatch
+Indel
+V[2][1] has value 0
+Match
+V[2][2] has value 2
+Mismatch
+Indel
+V[2][3] has value 1
+Mismatch
+Indel
+V[2][4] has value 0
+Mismatch
+Indel
+V[2][5] has value -1
+Mismatch
+Indel
+V[2][6] has value -2
+Mismatch
+Indel
+V[2][7] has value -3
+Match
+V[2][8] has value -4
+Mismatch
+Indel
+V[2][9] has value -5
+Mismatch
+Indel
+V[3][1] has value -1
+Mismatch
+Indel
+V[3][2] has value 1
+Match
+V[3][3] has value 3
+Match
+V[3][4] has value 2
+Match
+V[3][5] has value 1
+Mismatch
+Indel
+V[3][6] has value 0
+Mismatch
+Indel
+V[3][7] has value -1
+Mismatch
+Indel
+V[3][8] has value -2
+Mismatch
+Indel
+V[3][9] has value -3
+Mismatch
+Indel
+V[4][1] has value -2
+Mismatch
+Indel
+V[4][2] has value 0
+Mismatch
+Indel
+V[4][3] has value 2
+Mismatch
+V[4][4] has value 2
+Mismatch
+V[4][5] has value 1
+Mismatch
+V[4][6] has value 0
+Mismatch
+V[4][7] has value -1
+Mismatch
+V[4][8] has value -2
+Mismatch
+V[4][9] has value -3
+Mismatch
+Indel
+V[5][1] has value -3
+Mismatch
+Indel
+V[5][2] has value -1
+Match
+V[5][3] has value 1
+Match
+V[5][4] has value 3
+Match
+V[5][5] has value 3
+Mismatch
+Indel
+V[5][6] has value 2
+Mismatch
+Indel
+V[5][7] has value 1
+Mismatch
+Indel
+V[5][8] has value 0
+Mismatch
+Indel
+V[5][9] has value -1
+Match
+V[6][1] has value -4
+Mismatch
+Indel
+V[6][2] has value -2
+Mismatch
+Indel
+V[6][3] has value 0
+Mismatch
+Indel
+V[6][4] has value 2
+Mismatch
+V[6][5] has value 2
+Match
+V[6][6] has value 4
+Match
+V[6][7] has value 3
+Mismatch
+Indel
+V[6][8] has value 2
+Match
+V[6][9] has value 1
+Mismatch
+Indel
+V[7][1] has value -5
+Match
+V[7][2] has value -3
+Mismatch
+Indel
+V[7][3] has value -1
+Mismatch
+Indel
+V[7][4] has value 1
+Mismatch
+V[7][5] has value 1
+Mismatch
+Indel
+V[7][6] has value 3
+Mismatch
+V[7][7] has value 3
+Match
+V[7][8] has value 4
+Mismatch
+Indel
+V[7][9] has value 3
+Match
+V[8][1] has value -6
+Mismatch
+Indel
+V[8][2] has value -4
+Mismatch
+Indel
+V[8][3] has value -2
+Mismatch
+Indel
+V[8][4] has value 0
+Mismatch
+V[8][5] has value 0
+Match
+V[8][6] has value 2
+Match
+V[8][7] has value 4
+Mismatch
+Indel
+V[8][8] has value 3
+Match
+V[8][9] has value 5
+Match
+V[9][1] has value -7
+Mismatch
+Indel
+V[9][2] has value -5
+Mismatch
+Indel
+V[9][3] has value -3
+Mismatch
+Indel
+V[9][4] has value -1
+Mismatch
+V[9][5] has value -1
+Match
+V[9][6] has value 1
+Match
+V[9][7] has value 3
+Mismatch
+V[9][8] has value 3
+Match
+V[9][9] has value 4
+
+ The similarity value of the two strings is 4

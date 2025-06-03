@@ -1,0 +1,594 @@
+agcgaacgcg
+
+ttccccttat
+
+
+ The similarity value of the two strings is 3
+agcgaacgcg
+
+gtgtatctaa
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+cgtaaatggg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+taggccggca
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gggaagtgcc
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+aatcgcatac
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+ctatcactat
+
+
+ The similarity value of the two strings is 3
+agcgaacgcg
+
+ctctggaagc
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+tcccaccgct
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+tcccaggatc
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+cgccacactg
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+tgaccattag
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ttccaatcag
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gacacgccaa
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cgacgcaaag
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+gaatcctaac
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+gcagatcata
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+ctaaaacggg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+atgttctgca
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+atgtgcacac
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+gttcggtgac
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+gcgtatggtt
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+actttgggtt
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gcttaccgct
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+actaacgatt
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+ataaatcgag
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+catccaatgt
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+cgccttacca
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cattaccgaa
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+agctggcgcc
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+acacaaagtt
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ggtggccaac
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+aatggcgaga
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+tccctggtcc
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+ggacagatag
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+actacgaccg
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+caggggcttg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+catgaggcca
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+tgcggatcac
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+gcccagataa
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+gttagtcgga
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+gcaacgctct
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+catcctaagc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+agtaccacta
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ccctgcatca
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+acgtatactc
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+ttaccgcagc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cttattccat
+
+
+ The similarity value of the two strings is 3
+agcgaacgcg
+
+tatcgtttac
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+ttctcgaggc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+aaacgcttta
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+ctggacacaa
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+catccccgag
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+cgtcccatgt
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+aatcgagtat
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+tcgctggcac
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gtctgccaac
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gagacgacgc
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+atgatcctca
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+tcagacaatt
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+cttatactga
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+ctagacaacg
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+cgtgcccccg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gtatttggtg
+
+
+ The similarity value of the two strings is 3
+agcgaacgcg
+
+gcctgtcacg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ttcgtcgtga
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gaccttaaat
+
+
+ The similarity value of the two strings is 3
+agcgaacgcg
+
+ccgattgaag
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gagcggcgtg
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+gagtagcttt
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+aaggatttaa
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+catgctacgt
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+tccccagagg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+atgcttttgt
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+agatacgcac
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+ctcgggcggc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gctgaggtct
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gcttccctgt
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+ttggaaacgc
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+aggagtatgg
+
+
+ The similarity value of the two strings is 7
+agcgaacgcg
+
+acctcggaca
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cgatattctc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ttttgcgtac
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cgtcaagata
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+gccagatcat
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+ccgattggcc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ctagtgctcc
+
+
+ The similarity value of the two strings is 4
+agcgaacgcg
+
+taaccgcgcg
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+gccaagactc
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+agggcggaga
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+cgcttggttg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+caccgatcag
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cagtgcctcg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+cagcgtaaga
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+gaaaccgttg
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+ttaagcggaa
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+tcagcgtacg
+
+
+ The similarity value of the two strings is 6
+agcgaacgcg
+
+tattcgctga
+
+
+ The similarity value of the two strings is 5
+agcgaacgcg
+
+agaagccgcc
+
+
+ The similarity value of the two strings is 7
